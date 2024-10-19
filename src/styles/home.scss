@@ -1,0 +1,21 @@
+.learning-options {
+  background: url("../assets/images/learning-bg.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+}
+
+/* Default to showing the Quickpay section */
+.section {
+  display: none;
+}
+
+/* Show the section matching the URL fragment */
+:target {
+  display: block;
+}
+
+/* Ensure the default section (Quickpay) is displayed initially */
+#quickpay {
+  display: block;
+}
