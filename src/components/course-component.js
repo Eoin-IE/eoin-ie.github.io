@@ -62,7 +62,7 @@ const ContentSection = () => {
                         <span className='text-[#222222] text-nowrap'>Start Date:</span>
                     </p>
                     <p className='m-0 text-[#666666] font-medium text-lg flex gap-3'>
-                        <span className='text-[#222222] text-nowrap'>Duration:</span>7 weeks, 2 hours per week. <br /> Fee: €425
+                        <span className='text-[#222222] text-nowrap'>Duration:</span>7 weeks, 2 hours per week. <br /> Fee: €420
                     </p>
                 </>
             );
@@ -136,7 +136,7 @@ const ContentSection = () => {
                         <span className='text-[#222222] text-nowrap'>Start Date: Mon 14 January 2025</span>
                     </p>
                     <p className='m-0 text-[#666666] font-medium text-lg flex gap-3'>
-                        <span className='text-[#222222] text-nowrap'>Duration:</span>8 weeks,<br/> 2 hours per week.<br/> Fee: €425
+                        <span className='text-[#222222] text-nowrap'>Duration:</span>8 weeks,<br/> 2 hours per week.<br/> Fee: €420
                     </p>
                 </div>
                 <div className='flex justify-center mt-auto'>
