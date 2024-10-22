@@ -104,7 +104,7 @@ const ContentSection = () => {
                         Online group learning with comprehensive training.
                     </p>
                     <p className='mt-0 mb-2 text-[#666666] font-medium text-lg flex gap-3'>
-                        <span className='text-[#222222] text-nowrap'>Start Date: Tues 15/10/2024 </span>
+                        <span className='text-[#222222] text-nowrap'>Start Date: Tues 14 January 2025 </span>
                     </p>
                     <p className='m-0 text-[#666666] font-medium text-lg flex gap-3'>
                         <span className='text-[#222222] text-nowrap'>Duration:</span>12 weeks,<br/> 2 hours per week.<br/> Fee: €480
@@ -133,7 +133,7 @@ const ContentSection = () => {
                         Online group learning with comprehensive training.
                     </p>
                     <p className='mt-0 mb-2 text-[#666666] font-medium text-lg flex gap-3'>
-                        <span className='text-[#222222] text-nowrap'>Start Date: Mon 14/10/2024</span>
+                        <span className='text-[#222222] text-nowrap'>Start Date: Mon 14 January 2025</span>
                     </p>
                     <p className='m-0 text-[#666666] font-medium text-lg flex gap-3'>
                         <span className='text-[#222222] text-nowrap'>Duration:</span>8 weeks,<br/> 2 hours per week.<br/> Fee: €420
